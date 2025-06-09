@@ -1,7 +1,8 @@
 # Olympics Games Analysis (1896-2016) (Interactive Dashboard creation using Power Bi)
 
 
-![dubai-road](https://github.com/user-attachments/assets/b570d8bc-a79c-4692-b2b2-9491864cdf5a)
+
+![images](https://github.com/user-attachments/assets/b04d3f55-1e7f-40c8-a7a7-67ec8a1a22b1)
 
 
 ## Table of Contents
