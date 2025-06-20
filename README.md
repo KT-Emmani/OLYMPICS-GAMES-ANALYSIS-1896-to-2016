@@ -26,7 +26,8 @@ This project aims to provide insight on how the competition has grown over time 
 
 #### Sample Dataset
 
-
+The primary dataset used for this analysis is the "athlete_events.cvs" file, which contains 15 columns such as the ID, Name, Sex, Age, Height, Weight, Team, NOC, Games, Year, Season, City, Sport, Event, Medal.
+Dataset can be found here [download](https://www.kaggle.com/datasets/mohamedsaad254/uae-used-cars-analysis-full-project-v1-0)
 
 
 
