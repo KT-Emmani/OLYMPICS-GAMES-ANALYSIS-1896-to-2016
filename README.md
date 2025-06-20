@@ -17,9 +17,10 @@
 
 
 ## Project Overview
+From its inception, The Olympic games have grown to become an important and honored global event, where almost all nation represent by fielding thier teams to compete for medals. Before the 1970s, the Games were officially limited to few competitors but in the 1980s many events were opened to professional athletes. Currently, the Games are open to all, even the top professional athletes in basketball and football (soccer). 
 
-
-
+This project aims to provide insight on how the competition has grown over time in terms of participation, gender equality, medals, 
+ 
 
 ## Data Source
 
@@ -29,10 +30,11 @@
 
 
 
+
 ## Data Preparation
 
 ### Tools Used
-
+Power Bi for query and visualization.
 
 ### Cleaning 
 
