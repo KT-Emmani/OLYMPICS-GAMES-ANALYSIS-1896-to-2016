@@ -57,10 +57,7 @@ Exploratory Data Analysis (EDA) is a data analytics process performed to gaine a
 
 - The data contained 271,116 rows and 15 columns.
 
-- Additional Column: For this project, I wanted to analyse the age group of athletes that participated and won medals, therefore created a new column namely age group.
-
-
-
+- For this project, I wanted to analyse the age group of athletes that participated and won medals, therefore created a new column namely age group.
 
 
 
