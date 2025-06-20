@@ -2,7 +2,7 @@
 
 
 
-![images](https://github.com/user-attachments/assets/b04d3f55-1e7f-40c8-a7a7-67ec8a1a22b1)
+![image](https://statathlon.com/wp-content/uploads/2018/01/rio-de-janeiro-2016-summer-olympics-e1467812135773.png)
 
 
 ## Table of Contents
