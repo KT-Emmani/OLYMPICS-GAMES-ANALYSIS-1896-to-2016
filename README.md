@@ -13,7 +13,7 @@
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)  
 
-- [Recommendations](#recommendations)
+- [Insights](#insights)
 
 
 ## Project Overview
@@ -34,7 +34,7 @@ This project aims to provide insight on how the competition has grown over time 
 ## Data Preparation
 
 ### Tools Used
-Power Bi for query and visualization.
+- Power Bi for query and visualization.
 
 ### Cleaning 
 
@@ -59,7 +59,7 @@ Power Bi for query and visualization.
 
 ### Dashboard
 
+![Dashboard](https://github.com/user-attachments/assets/a40c746c-4dd3-4cfb-9c0a-93044b7b4f3e)
 
   
-### Recommendations
-Based on the analysis, I recommend the following actions:
+### Insights
