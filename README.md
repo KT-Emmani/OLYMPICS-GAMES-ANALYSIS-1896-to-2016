@@ -45,7 +45,19 @@ Get data from here [download](https://www.youtube.com/watch?v=2orCOI4q_qc)
 
 ## Exploratory Data Analysis
 
-- 
+Exploratory Data Analysis (EDA) is a data analytics process performed to gaine an in-depth understanding of  the data and learn the different data characteristics.
+
+- ETL: I begun the ETL process by importing (Extract) the csv file into Power Bi, transformed the data in Power Query before Loading it into Power Bi for analysis and visualization.
+
+- Headers: I corrected the column headers by making the first row as headers and also checked for any incorrect or misspelled header.
+
+- Data Type: I checked for the data type in each column such as text, intergers etc.
+
+- Missing Values: Columns such as the Age, Height, Weight and Medal contained missing values which was replaced with Null.
+
+- The data contained 271,116 rows and 15 columns.
+
+- Additional Column: For this project, I wanted to analyse the age group of athletes that participated and won medals, therefore created a new column namely age group.
 
 
 
