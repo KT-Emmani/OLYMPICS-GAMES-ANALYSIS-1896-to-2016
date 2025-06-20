@@ -2,7 +2,7 @@
 
 
 
-![image](https://statathlon.com/wp-content/uploads/2018/01/rio-de-janeiro-2016-summer-olympics-e1467812135773.png)
+![image](https://globallygrounded.com/wp-content/uploads/2016/08/olympic-games.jpg)
 
 
 ## Table of Contents
@@ -23,7 +23,7 @@ This project aims to provide valuable insights from this data on the performance
 
 ## Data Preparation
 
-#### Sample Data
+### Sample Data
 
 The primary data used for this analysis is the "athlete_events.cvs" file, which contains 15 columns such as the ID, Name, Sex, Age, Height, Weight, Team, NOC, Games, Year, Season, City, Sport, Event, Medal.
 
