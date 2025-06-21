@@ -70,3 +70,30 @@ Exploratory Data Analysis (EDA) is a data analytics process performed to gaine a
 
   
 ## Insights
+
+From the data the following insights were acquired;
+
+- Total Athletes - 135,571
+- Total Medals Won - 39,783 (Gold - 13,372 / Silver - 13,116 / Bronze - 13,295)
+- Sports - 66 Differrent sports
+- Events - 765 different events
+- Host - 42 Host Cities
+  
+![Total Athletes   Medal Won per Sports](https://github.com/user-attachments/assets/972f7f27-e284-476a-bb12-63cd2d1ed8d8)
+
+![No  Athletes over the Years](https://github.com/user-attachments/assets/b274a7f5-5a8a-4bdf-9fe0-89a8b9c75ca8)
+
+![All Time Medalist](https://github.com/user-attachments/assets/a8d70418-ba67-47c8-b75f-c3fb985fe176)
+
+![Medal won per age group](https://github.com/user-attachments/assets/740e37c9-c2b7-4ed7-a9ac-d7f734b56a94)
+
+![Country Appearance](https://github.com/user-attachments/assets/ecf203a1-26de-4919-8d74-6329eb3ac334)
+
+![Medal won by Country](https://github.com/user-attachments/assets/5c005ee4-cd14-420e-93aa-a679b1bd4dc9)
+
+
+
+
+
+
+
