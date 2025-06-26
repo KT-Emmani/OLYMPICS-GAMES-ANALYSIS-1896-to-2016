@@ -45,7 +45,7 @@ Get data from here [download](https://www.youtube.com/watch?v=2orCOI4q_qc)
 
 ## Exploratory Data Analysis
 
-Exploratory Data Analysis (EDA) is a data analytics process performed to gaine an in-depth understanding of  the data and learn the different data characteristics.
+Exploratory Data Analysis (EDA) is a data analytics process performed to gain an in-depth understanding of  the data and learn the different data characteristics.
 
 - ETL: I begun the ETL process by importing (Extract) the csv file into Power Bi, transformed the data in Power Query before Loading it into Power Bi for analysis and visualization.
 
